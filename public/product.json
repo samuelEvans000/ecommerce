@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "KTM Bike",
+    "image": "/images/image1.jpg",
+    "price": 999.99,
+    "description":"💡Tip:This product runs one size smaller. Please buy larger than your usual size.\n Available offers \nBank OfferFlat ₹1,250 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹15,000 to ₹39,999T&C \nBank OfferFlat ₹3,000 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹40,000 to ₹49,999T&C \nBank OfferFlat ₹4,000 Off on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and aboveT&C\nExtra ₹2,000 Off on Bikes & Scooters on purchase of ₹30,000 or moreT&C"
+  },
+  {
+    "id": 2,
+    "name": "Atlas Cycle",
+    "image": "/images/image2.jpg",
+    "price": 99.99,
+    "description": "💡Tip:This product runs one size smaller. Please buy larger than your usual size.\n Available offers \nBank OfferFlat ₹1,250 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹15,000 to ₹39,999T&C \nBank OfferFlat ₹3,000 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹40,000 to ₹49,999T&C \nBank OfferFlat ₹4,000 Off on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and aboveT&C\nExtra ₹2,000 Off on Bikes & Scooters on purchase of ₹30,000 or moreT&C"
+   
+  },
+  {
+    "id": 3,
+    "name": "Iphone",
+    "image": "/images/image3.jpg",
+    "price": 92.99,
+    "description": "💡Tip:This product runs one size smaller. Please buy larger than your usual size.\n Available offers \nBank OfferFlat ₹1,250 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹15,000 to ₹39,999T&C \nBank OfferFlat ₹3,000 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹40,000 to ₹49,999T&C \nBank OfferFlat ₹4,000 Off on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and aboveT&C\nExtra ₹2,000 Off on Bikes & Scooters on purchase of ₹30,000 or moreT&C"
+   
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "image": "/images/image4.jpg",
+    "price": 18.99,
+    "description": "💡Tip:This product runs one size smaller. Please buy larger than your usual size.\n Available offers \nBank OfferFlat ₹1,250 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹15,000 to ₹39,999T&C \nBank OfferFlat ₹3,000 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹40,000 to ₹49,999T&C \nBank OfferFlat ₹4,000 Off on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and aboveT&C\nExtra ₹2,000 Off on Bikes & Scooters on purchase of ₹30,000 or moreT&C"
+   
+  },
+  {
+    "id": 5,
+    "name": "ACER laptop",
+    "image": "/images/image5.jpg",
+    "price": 80.99,
+    "description": "💡Tip:This product runs one size smaller. Please buy larger than your usual size.\n Available offers \nBank OfferFlat ₹1,250 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹15,000 to ₹39,999T&C \nBank OfferFlat ₹3,000 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹40,000 to ₹49,999T&C \nBank OfferFlat ₹4,000 Off on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and aboveT&C\nExtra ₹2,000 Off on Bikes & Scooters on purchase of ₹30,000 or moreT&C"
+   
+  },
+  {
+    "id": 6,
+    "name": "Boat Headphones",
+    "image": "/images/image6.jpg",
+    "price": 14.99,
+    "description": "💡Tip:This product runs one size smaller. Please buy larger than your usual size.\n Available offers \nBank OfferFlat ₹1,250 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹15,000 to ₹39,999T&C \nBank OfferFlat ₹3,000 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹40,000 to ₹49,999T&C \nBank OfferFlat ₹4,000 Off on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and aboveT&C\nExtra ₹2,000 Off on Bikes & Scooters on purchase of ₹30,000 or moreT&C"
+  },
+  {
+    "id": 7,
+    "name": "Office Chair",
+    "image": "/images/image7.jpg",
+    "price": 19.99,
+    "description": "💡Tip:This product runs one size smaller. Please buy larger than your usual size.\n Available offers \nBank OfferFlat ₹1,250 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹15,000 to ₹39,999T&C \nBank OfferFlat ₹3,000 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹40,000 to ₹49,999T&C \nBank OfferFlat ₹4,000 Off on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and aboveT&C\nExtra ₹2,000 Off on Bikes & Scooters on purchase of ₹30,000 or moreT&C"
+   
+  },
+  {
+    "id": 8,
+    "name": "Lenovo Mouse",
+    "image": "/images/image8.jpg",
+    "price": 12.99,
+    "description": "💡Tip:This product runs one size smaller. Please buy larger than your usual size.\n Available offers \nBank OfferFlat ₹1,250 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹15,000 to ₹39,999T&C \nBank OfferFlat ₹3,000 Off on HDFC Bank Credit Card EMI Trxns on orders priced between ₹40,000 to ₹49,999T&C \nBank OfferFlat ₹4,000 Off on HDFC Bank Credit Card EMI Transactions on orders of ₹50,000 and aboveT&C\nExtra ₹2,000 Off on Bikes & Scooters on purchase of ₹30,000 or moreT&C"
+   
+  },
+  {
+    "id": 9,
+    "name": "Lamber-Jack Shirt",
+    "image": "/images/image9.jpg",
+    "price": 18.99,
+    "description": "💡Tip:This product runs one size smaller. Please buy larger than your usual size."
+   
+  }
+]
