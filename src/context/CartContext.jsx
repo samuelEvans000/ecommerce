@@ -9,7 +9,7 @@ export const CartContextProvider = ({ children }) => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch("/public/product.json");
+        const response = await fetch("/product.json");
         const data = await response.json();
         setProducts(data);
       } catch (error) {
